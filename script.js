@@ -19,8 +19,8 @@
 
 // STEP 3
 // Give me two examples of complex / variable expressions.
-// let mySum = 2000 + 25;
-// let myName = "John" + " " + "Doe";
+    // let mySum = 2000 + 25;
+    // let myName = "John" + " " + "Doe";
 
 
 // STEP 4
