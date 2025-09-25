@@ -188,11 +188,11 @@
 // // STEP 21
 // Using a set of Comparison and Logical operators, write an application that 
 // evaluates to true and displays the result within the console window.
-    let a = 1;
-    let b = 2;
-    let c = 3;
-    let d = 4;
-    console.log((a < b) && (d > c)); // true
+    // let a = 1;
+    // let b = 2;
+    // let c = 3;
+    // let d = 4;
+    // console.log((a < b) && (d > c)); // true
 
 
 // // STEP 22
